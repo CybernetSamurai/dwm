@@ -1,0 +1,2 @@
+# DWM
+Suckless DWM config
